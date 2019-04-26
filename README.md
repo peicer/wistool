@@ -8,3 +8,4 @@
 * 曲线绘制成图wxplot.py
 * 保存到excel模块pxls.py
 * GUI界面组件配置reer.xrc
+ 
