@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 ##测井WIS文件查询工具
 
 __用于查看测井数据WIS格式文件，基于Python语言，GUI库为wxpython。__
 <br>
+=======
+测井WIS文件查询工具
+------------------
+    __用于查看测井数据WIS格式文件，基于Python语言，GUI库为wxpython。__
+>>>>>>> 50392b886082227b42d84fdfb38aea3375867449
 * 主程序wistool.py
 * 程序图标img.py ，image2py.py可将目录中的图片转换为py文件
 * WIS文件解析核心库wishelper.py
