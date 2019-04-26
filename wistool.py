@@ -14,7 +14,6 @@ from wishelper import *
 import wx.grid
 from wx.adv import AboutDialogInfo,AboutBox
 from wx.grid import Grid
-from MPL_panel import *
 from wxplot import PlotExample
 
 TBFLAGS = ( wx.TB_HORIZONTAL
